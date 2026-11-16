@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nukoyluoglu.github.io/sitemap.xml
